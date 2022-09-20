@@ -11,10 +11,6 @@ Themes https://mermaid-js.github.io/mermaid/#/theming
 <br>
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
       st{Rhombus};
       good((Circle));
       en>Flag];
