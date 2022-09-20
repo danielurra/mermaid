@@ -11,7 +11,6 @@ Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-fil
       A-->C;
       B-->D;
       C-->D;
-      <br>
       st{Rombo};
       good((Circle));
       en>Label];
