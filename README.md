@@ -14,6 +14,7 @@ Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-fil
       st{Rombo};
       good((Circle));
       en>Label];
+      style en fill:red,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
 ```
 
 
