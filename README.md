@@ -1,8 +1,9 @@
 # Mermaid
-Diagrams using Markdown files with Mermaid<br>
+Mermaid diagrams<br>
 <br>
 <img src="/img/mermaid-diagrams.png" alt="Mermaid diagram"><br>
 <br>
+Diagrams using Markdown files with Mermaid<br>
 Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 <br>
 Styling and Classes https://mermaid-js.github.io/mermaid/#/flowchart?id=styling-and-classes
