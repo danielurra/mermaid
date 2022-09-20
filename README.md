@@ -11,13 +11,9 @@ Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-fil
       A-->C;
       B-->D;
       C-->D;
-```
-<br>
-```mermaid
-  graph TD;
-         st{Rombo};
-         good((Circle));
-         en>Label];
+      st{Rombo};
+      good((Circle));
+      en>Label];
 ```
 
 
