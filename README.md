@@ -16,7 +16,8 @@ Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-fil
       en>Label];
       style en fill:red,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
       style good fill:blue,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
-      style st fill:yellow,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2
+      style st fill:yellow,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
+      style st textcolor:black;
 ```
 
 
