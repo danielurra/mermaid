@@ -11,12 +11,12 @@ Themes https://mermaid-js.github.io/mermaid/#/theming
 <br>
 ```mermaid
   graph TD;
-      rombo{Rhombus};
-      good((Circle));
-      en>Flag];
-      style rombo fill:#34eb67,color:#FFFFFF,stroke:#040969,stroke-width:4px;
-      style good fill:blue,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
-      style en fill:yellow,color:#008000,stroke:#4c34eb,stroke-width:3px,stroke-dasharray: 5 5;
+      rombo-dani-01{Rhombus};
+      circulo-comun-dani((Circle));
+      banderin-loco-dani>Flag];
+      style rombo-dani-01 fill:#34eb67,color:#FFFFFF,stroke:#040969,stroke-width:4px;
+      style circulo-comun-dani fill:blue,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
+      style banderin-loco-dani fill:yellow,color:#008000,stroke:#4c34eb,stroke-width:3px,stroke-dasharray: 5 5;
       
       
 ```
