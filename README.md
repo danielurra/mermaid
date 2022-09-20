@@ -5,6 +5,10 @@ Diagrams using Markdown files with Mermaid<br>
 <br>
 Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 <br>
+Styling and Classes https://mermaid-js.github.io/mermaid/#/flowchart?id=styling-and-classes
+<br>
+Themes https://mermaid-js.github.io/mermaid/#/theming
+<br>
 ```mermaid
   graph TD;
       A-->B;
