@@ -16,7 +16,7 @@ Example taken from: https://github.blog/2022-02-14-include-diagrams-markdown-fil
       en>Red];
       style en fill:red,fill-opacity:1,color:#FFFFFF,stroke-opacity:0.2;
       style good fill:blue,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2;
-      style st fill:#f9f,stroke:#333,stroke-width:4px;
+      style st fill:#008000,stroke:#333,stroke-width:4px;
       
       
 ```
